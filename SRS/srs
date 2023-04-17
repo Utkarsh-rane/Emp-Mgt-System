@@ -15,7 +15,7 @@ Aid in the process of maintaing and managing Project Allocations and managing de
 Enable employees to apply for leave with thier managers and for managers to approve those leaves.
 
 
-Scope :
+Scope:
 As this system allows HRs' and Managers to maintin the sensitive database of Employees and Projects
 the scope of the access for this application is within the Company's Domain. 
 Any anonymous User can not view, or edit this data without proper Authorization.
