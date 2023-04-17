@@ -12,7 +12,7 @@ Leave category:
 	Category Id, Category Description, Category
 
 Relational:
-	Employee Id, Manager id, Department ID, Project Id, 
+	Employee Id, Manager ID, Department ID, Project ID, 
 
 
 *Operations:
