@@ -15,3 +15,9 @@ Given I am registered and logged into EMS, I am able to view personnel informati
 
 As a Manager, I am able to promote or demote employees.
 Given I am registered and logged into the EMS, I am able to promote or demote any employee under my department.
+
+As a Manager, I am able to search the employees and their projects.
+Given I am able to loogged into the EMS, I am able to search and see the projects of employees.
+
+As a Manager, I am able to assign the projects to the employees.
+Given I am able to logged into the EMS, I am able to assign projects to the group of employees.
