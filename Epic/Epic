@@ -1,2 +1,6 @@
 As an Employee, I want to be able to view my project details and edit my profile.
 Given I am registered and logged onto the EMS, When I select edit profile button, then I should be able to edit my profile.
+
+As an HR, I want to hire and able to view my employee details.
+Given I am registered and logged into EMS,When I select edit profile button,then i would be able to insert new employee and it's details.
+
