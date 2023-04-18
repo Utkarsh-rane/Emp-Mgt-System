@@ -7,7 +7,7 @@ Given I am registered and logged into EMS,When I select edit profile button,then
 As an Manager, I want to be able to assign project to employees.
 Given I am registered and logged onto the EMS, When I select project the option is come to assign that project to employee.
 
-AS an Employees I canapply for leave with respective Project Managers and Managers will be able approve or reject thier leave request.
+AS an Employees I can apply for leave with respective Project Managers and Managers will be able approve or reject thier leave request.
 Given I am registered  and logged on to EMS system, then I can able to approve or reject leave request.
 
 As an Manager I can see users personnel information of all employees as well as employee’s information who are under my department.
