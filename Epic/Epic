@@ -10,4 +10,8 @@ Given I am registered and logged onto the EMS, When I select project the option 
 AS an Employees I can apply for leave with respective Project Managers and Managers will be able approve or reject thier leave request.
 Given I am registered  and logged on to EMS system, then I can able to approve or reject leave request.
 
-As a Manager I can see users personnel information of all employees as well as employee’s information who are under my department.
+As a Manager I can see users personnel information of all employees who are under my department.
+Given I am registered and logged into EMS, I am able to view personnel information of any employee under my department.
+
+As a Manager, I am able to promote or demote employees.
+Given I am registered and logged into the EMS, I am able to promote or demote any employee under my department.
