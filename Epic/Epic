@@ -1,0 +1,23 @@
+As an Employee, I want to be able to view my project details and edit my profile.
+Given I am registered and logged onto the EMS, When I select edit profile button, then I should be able to edit my profile.
+
+As an HR, I want to hire and able to view my employee details.
+Given I am registered and logged into EMS,When I select edit profile button,then i would be able to insert new employee and it's details.
+
+As a Manager, I want to be able to assign project to employees.
+Given I am registered and logged onto the EMS, When I select project the option is come to assign that project to employee.
+
+AS an Employees I can apply for leave with respective Project Managers and Managers will be able approve or reject thier leave request.
+Given I am registered  and logged on to EMS system, then I can able to approve or reject leave request.
+
+As a Manager I can see users personnel information of all employees who are under my department.
+Given I am registered and logged into EMS, I am able to view personnel information of any employee under my department.
+
+As a Manager, I am able to promote or demote employees.
+Given I am registered and logged into the EMS, I am able to promote or demote any employee under my department.
+
+As a Manager, I am able to search the employees and their projects.
+Given I am able to loogged into the EMS, I am able to search and see the projects of employees.
+
+As a Manager, I am able to assign the projects to the employees.
+Given I am able to logged into the EMS, I am able to assign projects to the group of employees.
